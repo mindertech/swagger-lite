@@ -6,7 +6,7 @@ Laravel 5 api documentation generator, based on [Swagger 3](http://swagger.io/)
 ## Installation
 Require this package with composer using the following command:
 
-    composer require pgroot/swagger-lite
+    composer require mindertech/swagger-lite
      
 After that add to the providers array in config/app.php
  
