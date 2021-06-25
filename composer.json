@@ -18,5 +18,6 @@
         "psr-0": {
             "Pgroot\\SwaggerLite": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
